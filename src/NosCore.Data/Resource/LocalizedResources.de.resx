@@ -120,9 +120,6 @@
   <data name="ACCOUNT_ARRIVED" xml:space="preserve">
     <value>Account mit SessionId {0} ist angekommen.</value>
   </data>
-  <data name="ACTS_PARTS_PARSED" xml:space="preserve">
-    <value>Es wurden {0} Teile des Akts geparsed.</value>
-  </data>
   <data name="ADMINISTRATOR" xml:space="preserve">
     <value>Administrator</value>
   </data>
@@ -139,9 +136,6 @@
     <value>Authentifizierung erfolgreich!</value>
     <comment>check</comment>
   </data>
-  <data name="AUTH_API_SUCCESS" xml:space="preserve">
-    <value>Authentifikation-API erfolgreich</value>
-  </data>
   <data name="AUTH_ERROR" xml:space="preserve">
     <value>Authentifizierungs Fehler</value>
   </data>
@@ -151,32 +145,11 @@
   <data name="BAD_DROP_AMOUNT" xml:space="preserve">
     <value>Ungültige Abwurfmenge</value>
   </data>
-  <data name="BANK_FULL" xml:space="preserve">
-    <value>Deine Bank ist voll</value>
-  </data>
-  <data name="BAZAAR_BUY_ERROR" xml:space="preserve">
-    <value>Dein Item wurde leider nicht gekauft aufgrund eines Fehlers.</value>
-  </data>
-  <data name="BAZAAR_DELETE_ERROR" xml:space="preserve">
-    <value>Dein Item wurde aufgrund eines Fehlers nicht gelöscht.</value>
-  </data>
-  <data name="BAZAAR_MOD_ERROR" xml:space="preserve">
-    <value />
-  </data>
-  <data name="CANNOT_TRADE_NOT_TRADABLE_ITEM" xml:space="preserve">
-    <value>Du kannst ein nicht Tauschbares Item tauschen!</value>
-  </data>
   <data name="CANT_CHANGE_SAME_CLASS" xml:space="preserve">
     <value>Du kannst nicht zur gleichen Klasse wechseln</value>
   </data>
   <data name="CANT_FIND_CHARACTER" xml:space="preserve">
     <value>Kann den Charakter nicht finden!</value>
-  </data>
-  <data name="CANT_MOVE_ITEM_IN_SHOP" xml:space="preserve">
-    <value>Du kannst ein Item im Shop nicht bewegen!</value>
-  </data>
-  <data name="CANT_USE_ITEM_IN_SHOP" xml:space="preserve">
-    <value>Du kannst ein Item nicht im Shop benutzen!</value>
   </data>
   <data name="CARDS_PARSED" xml:space="preserve">
     <value>{0} Karten geladen!</value>
@@ -190,9 +163,6 @@
   <data name="CHARACTER_NOT_INIT" xml:space="preserve">
     <value>Charakter nicht geladen!</value>
     <comment>check</comment>
-  </data>
-  <data name="CHUNK_FORMAT_INVALID" xml:space="preserve">
-    <value>Das Chunkformat ist falsch.</value>
   </data>
   <data name="CLIENT_ARRIVED" xml:space="preserve">
     <value>Client verbunden, SessionId: {0}</value>
@@ -216,9 +186,6 @@
   <data name="DATABASE_NOT_UPTODATE" xml:space="preserve">
     <value>Datenbank befindet sich nicht auf dem neusten Stand.</value>
   </data>
-  <data name="DIRECT_ACCESS_OBJECT_DETECTED" xml:space="preserve">
-    <value>Direkter Objekt Zugriff erkannt.</value>
-  </data>
   <data name="DONE" xml:space="preserve">
     <value>Laden abgeschlossen!</value>
   </data>
@@ -230,9 +197,6 @@
   </data>
   <data name="ERROR_CHANGE_MAP" xml:space="preserve">
     <value>Charakter während des Kartenwechseln geändert. Missbrauche keine Befehle.{0}</value>
-  </data>
-  <data name="FRIEND_REQUEST_DISCONNECTED" xml:space="preserve">
-    <value>Deine Freundschaftsanfrage wurde nicht gesendet, da der Spieler nicht Online ist.</value>
   </data>
   <data name="GROUPREQUESTTYPE_UNKNOWN" xml:space="preserve">
     <value>Unbekannter Gruppeneinladungs Typ {0}</value>
@@ -274,12 +238,6 @@
   <data name="INVALID_ACCOUNT" xml:space="preserve">
     <value>Falsche ID!</value>
   </data>
-  <data name="INVALID_EXCHANGE" xml:space="preserve">
-    <value>Ungültiger Tausch.</value>
-  </data>
-  <data name="INVALID_EXCHANGE_LIST" xml:space="preserve">
-    <value>Ungültige Tausch Liste.</value>
-  </data>
   <data name="INVALID_PASSWORD" xml:space="preserve">
     <value>Falsches Password!</value>
   </data>
@@ -293,18 +251,9 @@
   <data name="ITEMS_PARSED" xml:space="preserve">
     <value>{0} items geladen!</value>
   </data>
-  <data name="ITEM_GIFTED" xml:space="preserve">
-    <value>{0} Item's wurde Verschenkt.</value>
-  </data>
-  <data name="ITEM_NOT_FOUND" xml:space="preserve">
-    <value>Item wurde nicht gefunden!</value>
-  </data>
   <data name="LANGUAGE_MISSING" xml:space="preserve">
     <value>Fehlende Sprache/Übersetzung {0} !</value>
     <comment>insert missing type data</comment>
-  </data>
-  <data name="LOADING_MAPINSTANCES" xml:space="preserve">
-    <value>Lade MapInstanzen</value>
   </data>
   <data name="MAPMONSTERS_LOADED" xml:space="preserve">
     <value>{0} MapMonsters geladen!</value>
@@ -336,14 +285,8 @@
   <data name="MONSTERS_PARSED" xml:space="preserve">
     <value>{0} MapMonsters Parsed!</value>
   </data>
-  <data name="NOT_ENOUGH_GOLD" xml:space="preserve">
-    <value>Nicht genügend Gold</value>
-  </data>
   <data name="NOT_IN_BLACKLIST" xml:space="preserve">
     <value>Dieser Spieler ist nicht auf deiner Blacklist.</value>
-  </data>
-  <data name="NOT_IN_FRIENDLIST" xml:space="preserve">
-    <value>Nutzer ist nicht in der Freundschaftsliste!</value>
   </data>
   <data name="NO_MAP" xml:space="preserve">
     <value>Server benötigt mindestens die nosville Karte um zu funktionieren!</value>
@@ -359,10 +302,6 @@
   </data>
   <data name="NPCS_PARSED" xml:space="preserve">
     <value>{0} MapNpcs geladen!</value>
-  </data>
-  <data name="PACKET_USED_WITHOUT_CHARACTER" xml:space="preserve">
-    <value>Packet erhalten ohne dass ein Charakter gesetzt ist {0}</value>
-    <comment>Packet received without character being set {0}</comment>
   </data>
   <data name="PARSE_ACCOUNTS" xml:space="preserve">
     <value>Möchtest du die Accounts laden?</value>
@@ -428,20 +367,11 @@
   <data name="PARSE_TIMESPACES" xml:space="preserve">
     <value>Möchtest du die TimeSpaces laden?</value>
   </data>
-  <data name="PLAYER_IN_SHOP" xml:space="preserve">
-    <value>{0} befindet sich im Shop.</value>
-  </data>
   <data name="POCKETTYPE_UNKNOWN" xml:space="preserve">
     <value>Unbekannter PocketTyp</value>
   </data>
   <data name="PORTALS_PARSED" xml:space="preserve">
     <value>{0} Portale geladen!</value>
-  </data>
-  <data name="QUESTS_PARSED" xml:space="preserve">
-    <value>{0} Quests wurden geparsed.</value>
-  </data>
-  <data name="QUEST_PRIZES_PARSED" xml:space="preserve">
-    <value>Es wurden {0} Quest Preise geparsed.</value>
   </data>
   <data name="REGISTRED_ON_MASTER" xml:space="preserve">
     <value>Angemeldet auf MasterServer</value>
@@ -462,9 +392,6 @@
   <data name="SHOPITEMS_PARSED" xml:space="preserve">
     <value>{0} ShopItems geparsed!</value>
   </data>
-  <data name="SHOPSKILLS_LOADED" xml:space="preserve">
-    <value>Es wurden {0} Shopskills geladen.</value>
-  </data>
   <data name="SHOPS_LOADED" xml:space="preserve">
     <value>{0} Shops geladen!</value>
   </data>
@@ -474,33 +401,17 @@
   <data name="SKILLS_PARSED" xml:space="preserve">
     <value>{0} Skills geladen!</value>
   </data>
-  <data name="SPEAKER" xml:space="preserve">
-    <value>Servernachricht</value>
-  </data>
   <data name="SP_NOPOINTS" xml:space="preserve">
     <value>Du hast nicht genügend SP Punkte um dich zu verwandeln!</value>
   </data>
   <data name="SUCCESSFULLY_LOADED" xml:space="preserve">
     <value>Erfolgreich geladen!</value>
   </data>
-  <data name="SUPPORT" xml:space="preserve">
-    <value>Supporter</value>
-  </data>
   <data name="TOO_RICH_SELLER" xml:space="preserve">
     <value>Der Verkäufer besitzt zu viel Gold!</value>
   </data>
-  <data name="TRY_OLD_AUTH" xml:space="preserve">
-    <value>Alte Authentikation versuchen</value>
-  </data>
-  <data name="TRY_REMOVE_FAILED" xml:space="preserve">
-    <value>Das Entfernen ist fehlgeschlagen.</value>
-  </data>
   <data name="UNABLE_TO_REQUEST_GROUP" xml:space="preserve">
     <value>Die Gruppe kann nicht erriecht werden</value>
-  </data>
-  <data name="UNKNOWN" xml:space="preserve">
-    <value>Unbekannt</value>
-    <comment>check</comment>
   </data>
   <data name="UNKNOWN_EQUIPMENTTYPE" xml:space="preserve">
     <value>Unbekannter Ausrüstungs typ: {0}</value>
@@ -512,8 +423,8 @@
     <value>Unbekannter Empfänger typ: {0}</value>
     <comment>insert missing type data</comment>
   </data>
-  <data name="UPDATE_GOLD" xml:space="preserve">
-    <value>Dein Gold wurde erfolgreich geändert!</value>
+  <data name="USE_SP_WITHOUT_SP_ERROR" xml:space="preserve">
+    <value>Ungültige SP Karte entdeckt!</value>
   </data>
   <data name="USER_IS_NOT_A_FRIEND" xml:space="preserve">
     <value>Benutzer ist kein Freund!</value>
@@ -521,16 +432,109 @@
   <data name="USER_NOT_CONNECTED" xml:space="preserve">
     <value>Benutzer ist nicht verbunden!</value>
   </data>
-  <data name="USER_NOT_IN_EXCHANGE" xml:space="preserve">
-    <value>Benutzer ist nicht am tauschen!</value>
-  </data>
-  <data name="USE_SP_WITHOUT_SP_ERROR" xml:space="preserve">
-    <value>Ungültige SP Karte entdeckt!</value>
-  </data>
   <data name="VISUALENTITY_DOES_NOT_EXIST" xml:space="preserve">
     <value>VisualEntity existiert nicht: {0}</value>
   </data>
   <data name="VISUALTYPE_UNKNOWN" xml:space="preserve">
     <value>Unbekannter VisualType: {0}</value>
+  </data>
+  <data name="CANNOT_TRADE_NOT_TRADABLE_ITEM" xml:space="preserve">
+    <value>Du kannst ein nicht Tauschbares Item tauschen!</value>
+  </data>
+  <data name="LOADING_MAPINSTANCES" xml:space="preserve">
+    <value>Lade MapInstanzen</value>
+  </data>
+  <data name="SUPPORT" xml:space="preserve">
+    <value>Supporter</value>
+  </data>
+  <data name="UPDATE_GOLD" xml:space="preserve">
+    <value>Dein Gold wurde erfolgreich geändert!</value>
+  </data>
+  <data name="PACKET_USED_WITHOUT_CHARACTER" xml:space="preserve">
+    <value>Packet erhalten ohne dass ein Charakter gesetzt ist {0}</value>
+    <comment>Packet received without character being set {0}</comment>
+  </data>
+  <data name="BANK_FULL" xml:space="preserve">
+    <value>Deine Bank ist voll</value>
+  </data>
+  <data name="CANT_MOVE_ITEM_IN_SHOP" xml:space="preserve">
+    <value>Du kannst ein Item im Shop nicht bewegen!</value>
+  </data>
+  <data name="CANT_USE_ITEM_IN_SHOP" xml:space="preserve">
+    <value>Du kannst ein Item nicht im Shop benutzen!</value>
+  </data>
+  <data name="FRIEND_REQUEST_DISCONNECTED" xml:space="preserve">
+    <value>Deine Freundschaftsanfrage wurde nicht gesendet, da der Spieler nicht Online ist.</value>
+  </data>
+  <data name="INVALID_EXCHANGE" xml:space="preserve">
+    <value>Ungültiger Tausch.</value>
+  </data>
+  <data name="INVALID_EXCHANGE_LIST" xml:space="preserve">
+    <value>Ungültige Tausch Liste.</value>
+  </data>
+  <data name="NOT_ENOUGH_GOLD" xml:space="preserve">
+    <value>Nicht genügend Gold</value>
+  </data>
+  <data name="PLAYER_IN_SHOP" xml:space="preserve">
+    <value>{0} befindet sich im Shop.</value>
+  </data>
+  <data name="USER_NOT_IN_EXCHANGE" xml:space="preserve">
+    <value>Benutzer ist nicht am tauschen!</value>
+  </data>
+  <data name="QUESTS_PARSED" xml:space="preserve">
+    <value>{0} Quests wurden geparsed.</value>
+  </data>
+  <data name="ACTS_PARTS_PARSED" xml:space="preserve">
+    <value>Es wurden {0} Teile des Akts geparsed.</value>
+  </data>
+  <data name="AUTH_API_SUCCESS" xml:space="preserve">
+    <value>Authentifikation-API erfolgreich</value>
+  </data>
+  <data name="BAZAAR_BUY_ERROR" xml:space="preserve">
+    <value>Dein Item wurde leider nicht gekauft aufgrund eines Fehlers.</value>
+  </data>
+  <data name="BAZAAR_DELETE_ERROR" xml:space="preserve">
+    <value>Dein Item wurde aufgrund eines Fehlers nicht gelöscht.</value>
+  </data>
+  <data name="BAZAAR_MOD_ERROR" xml:space="preserve">
+    <value />
+  </data>
+  <data name="CHUNK_FORMAT_INVALID" xml:space="preserve">
+    <value>Das Chunkformat ist falsch.</value>
+  </data>
+  <data name="DIRECT_ACCESS_OBJECT_DETECTED" xml:space="preserve">
+    <value>Direkter Objekt Zugriff erkannt.</value>
+  </data>
+  <data name="ITEM_GIFTED" xml:space="preserve">
+    <value>{0} Item's wurde Verschenkt.</value>
+  </data>
+  <data name="ITEM_NOT_FOUND" xml:space="preserve">
+    <value>Item wurde nicht gefunden!</value>
+  </data>
+  <data name="NOT_IN_FRIENDLIST" xml:space="preserve">
+    <value>Nutzer ist nicht in der Freundschaftsliste!</value>
+  </data>
+  <data name="QUEST_PRIZES_PARSED" xml:space="preserve">
+    <value>Es wurden {0} Quest Preise geparsed.</value>
+  </data>
+  <data name="SHOPSKILLS_LOADED" xml:space="preserve">
+    <value>Es wurden {0} Shopskills geladen.</value>
+  </data>
+  <data name="SPEAKER" xml:space="preserve">
+    <value>Servernachricht</value>
+  </data>
+  <data name="TRY_OLD_AUTH" xml:space="preserve">
+    <value>Alte Authentikation versuchen</value>
+  </data>
+  <data name="TRY_REMOVE_FAILED" xml:space="preserve">
+    <value>Das Entfernen ist fehlgeschlagen.</value>
+  </data>
+  <data name="UNKNOWN" xml:space="preserve">
+    <value>Unbekannt</value>
+    <comment>check</comment>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PARSE_SKILLS1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>

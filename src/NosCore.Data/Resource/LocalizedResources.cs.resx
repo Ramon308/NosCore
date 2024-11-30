@@ -145,9 +145,6 @@
   <data name="BAD_DROP_AMOUNT" xml:space="preserve">
     <value>Špatné množství k vyhození!</value>
   </data>
-  <data name="BANK_FULL" xml:space="preserve">
-    <value>Tvůj bankovní účet je plný!</value>
-  </data>
   <data name="CANT_CHANGE_SAME_CLASS" xml:space="preserve">
     <value>Nemůžeš změnit povolání na stejné.</value>
   </data>
@@ -381,9 +378,6 @@
   <data name="SUCCESSFULLY_LOADED" xml:space="preserve">
     <value>Úspeštně načtena!</value>
   </data>
-  <data name="SUPPORT" xml:space="preserve">
-    <value>Podpora</value>
-  </data>
   <data name="TOO_RICH_SELLER" xml:space="preserve">
     <value>Obchodník má příliš mnoho zlata pro to aby mohl vzít další od tebe-</value>
   </data>
@@ -399,9 +393,6 @@
   <data name="UNKWNOWN_RECEIVERTYPE" xml:space="preserve">
     <value>Neznámý ReceiverType</value>
   </data>
-  <data name="UPDATE_GOLD" xml:space="preserve">
-    <value>Tvé zlato bylo změněno!</value>
-  </data>
   <data name="USER_IS_NOT_A_FRIEND" xml:space="preserve">
     <value>Uživatel není Kamarád</value>
   </data>
@@ -410,5 +401,18 @@
   </data>
   <data name="VISUALTYPE_UNKNOWN" xml:space="preserve">
     <value>Neznámý VisualType</value>
+  </data>
+  <data name="SUPPORT" xml:space="preserve">
+    <value>Podpora</value>
+  </data>
+  <data name="UPDATE_GOLD" xml:space="preserve">
+    <value>Tvé zlato bylo změněno!</value>
+  </data>
+  <data name="BANK_FULL" xml:space="preserve">
+    <value>Tvůj bankovní účet je plný!</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PARSE_SKILLS1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>

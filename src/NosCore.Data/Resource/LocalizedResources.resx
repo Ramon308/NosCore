@@ -485,4 +485,7 @@
   <data name="SAVE_CHARACTER_FAILED" xml:space="preserve">
     <value>Save Character failed. SessionId: {SessionId}</value>
   </data>
+  <data name="PARSE_SKILLS1" xml:space="preserve">
+    <value>Do you want to parse Skills?</value>
+  </data>
 </root>

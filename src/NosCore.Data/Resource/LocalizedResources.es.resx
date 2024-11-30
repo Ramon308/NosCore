@@ -419,19 +419,23 @@
     <value>ReceiverType desconocido</value>
     <comment>insert missing type data</comment>
   </data>
+  <data name="USE_SP_WITHOUT_SP_ERROR" xml:space="preserve">
+    <value>Â¡Tarjeta SP invalida detectada!</value>
+  </data>
   <data name="USER_IS_NOT_A_FRIEND" xml:space="preserve">
     <value>Â¡El usuario no es un amigo!</value>
   </data>
   <data name="USER_NOT_CONNECTED" xml:space="preserve">
     <value>Â¡El usuario no estÃ¡ conectado!</value>
   </data>
-  <data name="USE_SP_WITHOUT_SP_ERROR" xml:space="preserve">
-    <value>Â¡Tarjeta SP invalida detectada!</value>
-  </data>
   <data name="VISUALENTITY_DOES_NOT_EXIST" xml:space="preserve">
     <value>VisualEntity no existe: {0}</value>
   </data>
   <data name="VISUALTYPE_UNKNOWN" xml:space="preserve">
     <value>VisualType desconocido: {0}</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PARSE_SKILLS1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>

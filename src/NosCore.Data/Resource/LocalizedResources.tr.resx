@@ -474,17 +474,32 @@
   <data name="QUESTS_PARSED" xml:space="preserve">
     <value>{0} Görev işlendi!</value>
   </data>
-  <data name="SCRIPTS_LOADED" xml:space="preserve">
-    <value>{0} Script yüklendi!</value>
+  <data name="ACTS_PARTS_PARSED" xml:space="preserve">
+    <value>{0} Act bölümleri işlendi!</value>
   </data>
-  <data name="QUESTREWARDS_LOADED" xml:space="preserve">
-    <value>{0} Görev ödülü yüklendi!</value>
+  <data name="ITEM_GIFTED" xml:space="preserve">
+    <value>{0} Hediye edildi.</value>
   </data>
-  <data name="QUESTOBJECTIVES_LOADED" xml:space="preserve">
-    <value>{0} Görev hedefi yüklendi!</value>
+  <data name="ITEM_NOT_FOUND" xml:space="preserve">
+    <value>Eşya bulunamadı.</value>
   </data>
-  <data name="QUESTS_LOADED" xml:space="preserve">
-    <value>{0} Görev yüklendi!</value>
+  <data name="NOT_IN_FRIENDLIST" xml:space="preserve">
+    <value>Arkadaşın değil.</value>
+  </data>
+  <data name="QUEST_PRIZES_PARSED" xml:space="preserve">
+    <value>{0} Görev ödülleri işlendi!</value>
+  </data>
+  <data name="SHOPSKILLS_LOADED" xml:space="preserve">
+    <value>{0} Market becerileri yüklendi!</value>
+  </data>
+  <data name="SPEAKER" xml:space="preserve">
+    <value>Hoparlör</value>
+  </data>
+  <data name="TRY_REMOVE_FAILED" xml:space="preserve">
+    <value>Silme işlemi gerçekleştirilemedi.</value>
+  </data>
+  <data name="UNKNOWN" xml:space="preserve">
+    <value>Bilinmiyor</value>
   </data>
   <data name="NPCMONSTERSTALKS_LOADED" xml:space="preserve">
     <value>{0} NPC-Canavar diyaloğu yüklendi!</value>
@@ -492,40 +507,29 @@
   <data name="NPCTALKS_PARSED" xml:space="preserve">
     <value>{0} NPC diyaloğu işlendi!</value>
   </data>
-  <data name="SCRIPTS_PARSED" xml:space="preserve">
-    <value>{0} Script işlendi!</value>
-  </data>
-  <data name="ACTS_PARTS_PARSED" xml:space="preserve">
-    <value>{0} Act bölümleri işlendi!</value>
-  </data>
-  <data name="QUEST_PRIZES_PARSED" xml:space="preserve">
-    <value>{0} Görev ödülleri işlendi!</value>
-  </data>
-  <data name="ITEM_GIFTED" xml:space="preserve">
-    <value>{0} Hediye edildi.</value>
-  </data>
-  <data name="NOT_IN_FRIENDLIST" xml:space="preserve">
-    <value>Arkadaşın değil.</value>
-  </data>
-  <data name="SPEAKER" xml:space="preserve">
-    <value>Hoparlör</value>
-  </data>
-  <data name="UNKNOWN" xml:space="preserve">
-    <value>Bilinmiyor</value>
-  </data>
-  <data name="TRY_REMOVE_FAILED" xml:space="preserve">
-    <value>Silme işlemi gerçekleştirilemedi.</value>
-  </data>
-  <data name="SHOPSKILLS_LOADED" xml:space="preserve">
-    <value>{0} Market becerileri yüklendi!</value>
-  </data>
-  <data name="ITEM_NOT_FOUND" xml:space="preserve">
-    <value>Eşya bulunamadı.</value>
-  </data>
   <data name="PARSE_SCRIPTS" xml:space="preserve">
     <value>Scriptleri işlemek (aktarmak)istiyor musun?</value>
   </data>
+  <data name="QUESTOBJECTIVES_LOADED" xml:space="preserve">
+    <value>{0} Görev hedefi yüklendi!</value>
+  </data>
+  <data name="QUESTREWARDS_LOADED" xml:space="preserve">
+    <value>{0} Görev ödülü yüklendi!</value>
+  </data>
+  <data name="QUESTS_LOADED" xml:space="preserve">
+    <value>{0} Görev yüklendi!</value>
+  </data>
   <data name="QUEST_NOT_FOUND" xml:space="preserve">
     <value>Görev bulunamadı.</value>
+  </data>
+  <data name="SCRIPTS_LOADED" xml:space="preserve">
+    <value>{0} Script yüklendi!</value>
+  </data>
+  <data name="SCRIPTS_PARSED" xml:space="preserve">
+    <value>{0} Script işlendi!</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PARSE_SKILLS1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>
